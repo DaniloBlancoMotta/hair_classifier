@@ -1,6 +1,23 @@
-# Hair Classifier Lambda
+# Hair Classifier
 
-This project contains a serverless function to classify hairstyles using an ONNX model.
+**Repository:** https://github.com/DaniloBlancoMotta/hair_classifier
+
+## Table of Contents
+- [Problem Description](#problem-description)
+- [Objectives](#objectives)
+- [Files](#files)
+- [Deployment](#deployment)
+- [Usage](#usage)
+
+## Problem Description
+This project aims to classify hairstyles (Straight vs Curly) using deep learning models. The solution is deployed as a serverless function.
+
+## Objectives
+1. Data Preparation and Cleaning
+2. Feature Engineering
+3. Model Training
+4. Model Evaluation
+5. Deployment
 
 ## Files
 
